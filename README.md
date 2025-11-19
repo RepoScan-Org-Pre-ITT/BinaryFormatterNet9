@@ -1,2 +1,1 @@
-test1
-c
+Updated README file for automation
